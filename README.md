@@ -1,4 +1,6 @@
-### Hi there 👋
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 👋
+
+My name is Alsan Ali and I’m currently working at Anlyz Inc as a Rust software engineer.
 
 <!--
 **stroberrysugar/stroberrysugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
