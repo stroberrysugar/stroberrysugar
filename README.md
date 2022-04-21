@@ -1,4 +1,4 @@
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 👋
+## 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎!
 
 My name is Alsan Ali and I’m currently working at Anlyz Inc as a Rust software engineer. I'm based in the Maldives.
 
