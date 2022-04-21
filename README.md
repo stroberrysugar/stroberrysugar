@@ -1,6 +1,12 @@
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎! 👋
 
-My name is Alsan Ali and I’m currently working at Anlyz Inc as a Rust software engineer.
+My name is Alsan Ali and I’m currently working at Anlyz Inc as a Rust software engineer. I'm based in the Maldives.
+
+## 🔭 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
+* Rustular
+
+## 🔧 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
+
 
 <!--
 **stroberrysugar/stroberrysugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
