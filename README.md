@@ -11,7 +11,7 @@ I love writing networking code and other low-level stuff. My main language is Ru
 [![](https://img.shields.io/badge/OS-Qubes%20OS-success?style=for-the-badge&logo=linux)](https://www.qubes-os.org/)
 [![](https://img.shields.io/badge/Lang-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/Lang-TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Lang-SASS-red?style=for-the-badge&logo=sass)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Lang-SASS-red?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/Framework-Actix%2FAxum-white?style=for-the-badge&logo=html5)](https://actix.rs/)
 [![](https://img.shields.io/badge/Framework-React-aqua?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Framework-Vue.js-aqua?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
