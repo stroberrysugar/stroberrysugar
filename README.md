@@ -5,7 +5,8 @@ My name is Alsan Ali and I’m currently working at Anlyz Inc as a software engi
 I love writing networking code and other low-level stuff. My main language is Rust and I've been working wih it for years now.
 
 ## 🔭 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
-* Rustular
+* WASM technologies
+* Decentralized chat
 
 ## 🔧 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 [![](https://img.shields.io/badge/OS-Qubes%20OS-success?style=for-the-badge&logo=linux)](https://www.qubes-os.org/)
