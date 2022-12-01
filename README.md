@@ -19,4 +19,4 @@ I love writing networking code and other low-level stuff. My main language is Ru
 [![](https://img.shields.io/badge/Technology-WebAssembly-purple?style=for-the-badge&logo=webassembly)](https://webassembly.org/)
 
 ## ✉️ 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎
-[![](https://img.shields.io/badge/Email-alsanali%40stroberrysugar.com-success?style=for-the-badge&logo=gmail)](mailto:alsanali@stroberrysugar.com)
+[![](https://img.shields.io/badge/Email-alsanali%40stroberrysugar.com-success?style=for-the-badge&logo=gmail)](mailto:me@alsanali.com)
