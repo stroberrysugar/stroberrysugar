@@ -2,7 +2,7 @@
 
 My name is Alsan Ali and I’m currently working as a software engineer at Anlyz Inc. I'm based in the Maldives.
 
-I love writing networking code and other low-level stuff. My main language is Rust and I've been working wih it for years now.
+I love writing networking code and other low-level stuff. My main language is Rust and I've been working with it for years now.
 
 ## 🔭 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗
 * WASM technologies
